@@ -1,3 +1,3 @@
-# CSC4110-Assignment1
+# Github and git conflict
 Jeremy Cavallo
 gw2918
